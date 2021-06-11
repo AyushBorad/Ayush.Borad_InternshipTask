@@ -6,7 +6,7 @@ n2 =int(input("Enter the ending  number : "))
 for i in reversed(range(n2,n1+1,3)):
     print(i)
     '''
-print("strating :")
+print("starting :")
 n1=int(input())
 print("ending :")
 n2=int(input())
